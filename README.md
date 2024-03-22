@@ -1,0 +1,1 @@
+In this i have create one producer and one consumer and producer sent message in json format i.e Student Type so we have to perform Serialization and in Consumer Consume data from the partition so there we have to perform deserialization.
